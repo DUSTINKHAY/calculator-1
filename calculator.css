@@ -1,0 +1,98 @@
+*{
+    background-size: cover;
+    background-position: center;
+    background-color: blueviolet;
+    ;
+   }
+.maths{
+    width: 400px;
+    height:; 
+    top: 50%;
+    left: 50%;
+    position: absolute;
+    transform: translate(-50%,-50%);
+    box-sizing: border-box;
+    padding: 30px 20px;
+    font-size: bold;
+    border-radius:0;
+    text-align: center;
+ margin: auto;
+ background-position:;
+ border-radius: 30px;
+ background-size: 30px;
+}
+input[type=text]{
+    width: 300;
+    padding: 10px;
+    font-size: 22px;
+    font-weight: bold;
+    margin-top: 20px;
+    border-radius: 10px;
+    background-color:rgb(5, 5, 39);
+    color: orange;
+}
+input[type=button]{
+    width: 70px;
+    padding: 10px;
+    font-size: 15px;
+    font-weight: bold;
+    border-radius: 5px;
+    background-color: white;
+    color: orange;
+    box-sizing: border-box;
+    padding: 10px;
+    background-origin: border-box;
+
+}
+input[id="del"]{
+background-color:blueviolet;
+}
+input[id="Reset"]{
+    background-color: blueviolet;
+width: 70px;
+}
+input[value=eval(caldisplayvalue]{
+    background-color: red;
+}
+
+h1{
+    margin: 50;
+    padding-right:50px;
+    text-align:left;
+    font-size: 40px;
+    border: 100%;
+    top: -50;
+    left: calc(0% - 600px);
+    color: orange;
+
+}-
+
+.container{
+    position: absolute;
+    top:50;
+    left: 50%;
+    text align: center;
+    transform: translate(-50%, -50%);
+
+}
+
+h2{
+    margin-bottom: 30px;
+    padding-left: 25px;
+    text-align:right;
+    font-size: 10px;
+    border: 100%;
+    top: -50;
+    left: calc(0% - 0px);
+    color: orange;
+    te
+}
+
+.container[type="checkbox"]{
+    padding-left: 100px;
+    width: 70px;
+    padding: 10px;
+    font-size: 15px;
+    font-weight: bold;
+    border-radius: 5px;
+}
